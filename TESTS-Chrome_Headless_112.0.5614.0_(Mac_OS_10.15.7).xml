@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome Headless 112.0.5614.0 (Mac OS 10.15.7)" package="" timestamp="2023-03-27T02:40:13" id="0" hostname="MacBook-Pro-de-Alex.local" tests="1" errors="0" failures="0" time="0.017">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/112.0.5614.0 Safari/537.36"/>
+  </properties>
+  <testcase name="@UserHttpRepository when executing create method #should return the response from the backend" time="0.017" classname="Chrome_Headless_112_0_5614_0_(Mac_OS_10_15_7).@UserHttpRepository when executing create method"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
